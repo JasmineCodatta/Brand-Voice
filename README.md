@@ -1,4 +1,4 @@
-# Humanbased Brand
+# Humanbased Brand Voice
 
 This repository contains Humanbased's writing guidelines and two Claude skills built on top of them — one for reviewing copy, one for generating it.
 
@@ -7,7 +7,7 @@ This repository contains Humanbased's writing guidelines and two Claude skills b
 ## Contents
 
 ```
-Brand/
+Brand Voice/
 ├── Humanbased Writing Guidelines.md   — canonical writing reference
 └── skills/
     ├── brand-review/SKILL.md          — review copy against the guidelines
